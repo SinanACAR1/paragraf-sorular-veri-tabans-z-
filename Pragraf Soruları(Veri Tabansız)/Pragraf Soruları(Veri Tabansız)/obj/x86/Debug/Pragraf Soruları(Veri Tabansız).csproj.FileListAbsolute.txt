@@ -1,0 +1,7 @@
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\bin\Debug\Pragraf Soruları(Veri Tabansız).exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\bin\Debug\Pragraf Soruları(Veri Tabansız).pdb
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\obj\x86\Debug\Pragraf Soruları(Veri Tabansız).csproj.GenerateResource.Cache
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\obj\x86\Debug\Pragraf Soruları(Veri Tabansız).exe
+C:\Users\Samet\documents\visual studio 2010\Projects\Pragraf Soruları(Veri Tabansız)\Pragraf Soruları(Veri Tabansız)\obj\x86\Debug\Pragraf Soruları(Veri Tabansız).pdb
